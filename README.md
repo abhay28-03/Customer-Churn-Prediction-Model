@@ -10,8 +10,11 @@ Customer churn is a critical business problem in the telecom industry. This proj
 
 Python
 NumPy – Numerical computations
+
 Pandas – Data manipulation and analysis
+
 Matplotlib & Seaborn – Data visualization
+
 Scikit-learn – Model building and evaluation
 Imbalanced-learn (SMOTE) – Handling class imbalance
 XGBoost – Gradient boosting classifier
