@@ -9,6 +9,7 @@ Customer churn is a critical business problem in the telecom industry. This proj
 # 🛠️ Technologies & Libraries Used
 
 Python
+
 NumPy – Numerical computations
 
 Pandas – Data manipulation and analysis
@@ -16,26 +17,43 @@ Pandas – Data manipulation and analysis
 Matplotlib & Seaborn – Data visualization
 
 Scikit-learn – Model building and evaluation
+
 Imbalanced-learn (SMOTE) – Handling class imbalance
+
 XGBoost – Gradient boosting classifier
+
 Pickle – Model serialization
 
 # ⚙️ Workflow
 
 Data Preprocessing
+
 Handling categorical variables using LabelEncoder
+
 Train-test split
+
 Addressing class imbalance using SMOTE
+
 Model Training
+
 Decision Tree Classifier
+
 Random Forest Classifier
+
 XGBoost Classifier
+
 Model Evaluation
+
 Accuracy Score
+
 Confusion Matrix
+
 Classification Report
+
 Cross-validation for performance validation
+
 Model Saving
+
 Trained model saved using pickle for future deployment or inference
 
 # 📊 Results
@@ -45,8 +63,11 @@ The models were evaluated and compared to determine the best-performing classifi
 # 🚀 Future Improvements
 
 Hyperparameter tuning
+
 Feature importance analysis
+
 Deployment using Flask or FastAPI
+
 Integration with a real-time customer analytics system
 
 # 📁 Dataset
